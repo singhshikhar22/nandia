@@ -4,7 +4,10 @@ This an online Pizza ordering portal developed with the help of Django, JavaScri
 
 ## Getting started
 
-To run this project, download the repository and with the help of Django command, run "python manage.py runserver"
+To run this project, download the repository and create your own virtual environment if possible for this project, then run the environment and go the project location and
+
+1. With the help of pip command, run "pip install -r requirements.txt"
+2. Then run the command "python manage.py runserver"
 
 ## Acknowledgments
 
